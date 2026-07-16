@@ -63,4 +63,4 @@
 ### Steps
 1. Clone the repository:
    ```bash
-[   git clone https://github.com/swarojroy/Telemetry-Engine.git](https://github.com/swaroj81907/Telemetry-Engine/
+   https://github.com/swaroj81907/Telemetry-Engine/

@@ -441,3 +441,6 @@ def get_status():
         "media_type": media_type,
         "default_url": DEFAULT_MEDIA_URL
     })
+
+# For Vercel, we don't need the if __name__ block
+# Vercel expects the 'app' variable to be available
